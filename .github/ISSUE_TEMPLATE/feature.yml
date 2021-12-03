@@ -46,4 +46,3 @@ body:
       description: Add any other information about the problem here.
     validations:
       required: false 
-  

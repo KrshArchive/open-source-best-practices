@@ -44,7 +44,8 @@ The process described here has several goals:
 
 Please follow all instructions in [the template](https://github.com/krishguptadev/open-source-best-practices/blob/main/.github/pull_request_template.md)
 
-## Style Guide for Git Commit Messages :memo:
+## Style Guide for Git Commit Messages 📝
+
 
 **How you can add more value to your contribution logs:**
 

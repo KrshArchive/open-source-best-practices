@@ -19,7 +19,6 @@
 -->
 
 - [ ] My code follows the code style of this project.
-- [ ] My change requires changes to the documentation.
 - [ ] All new and existing tests passed.
 - [ ] This PR does not contain plagiarized content.
 - [ ] The title of my pull request is a short description of the requested changes.

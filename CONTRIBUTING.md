@@ -6,13 +6,13 @@ The following is a set of guidelines for contributing to this project. These are
 
 ## 📜 Code of Conduct
 
-This project and everyone participating in it is governed by a [Code of Conduct](https://github.com/krishguptadev/open-source-best-practices/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to one of our moderators via your preferred platform.
+This project and everyone participating in it is governed by a [Code of Conduct](https://github.com/krishguptadev/open-source-best-practices/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [mailto:krishguptadev@outlook.com](krishguptadev@outlook.com).
 
 ## 🤔 How can I contribute?
 
 ### 💣 Reporting Bugs
 
-This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report 📝, reproduce the behavior 💻 💻, and find related reports. 🔎
+This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report 📝 reproduce the behavior 💻 and find related reports 🔎
 
 Since the new GitHub Issue forms we only suggest you to include most information possible. But you can also **Perform a [cursory search](https://github.com/krishguptadev/open-source-best-practices/issues)** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 

@@ -124,5 +124,4 @@ git push origin your-branch-name
 
 ## 📈 Getting started
 
-- 😕 Not sure where to start? Join our community on [Discord](https://discord.gg/eZPwdM52vn)
 - ✨ You can also take part in our [Community Discussions](https://github.com/krishguptadev/open-source-best-practices/discussions)

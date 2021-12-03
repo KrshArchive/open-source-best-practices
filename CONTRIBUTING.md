@@ -46,7 +46,6 @@ Please follow all instructions in [the template](https://github.com/krishguptade
 
 ## Style Guide for Git Commit Messages 📝
 
-
 **How you can add more value to your contribution logs:**
 
 - Use the present tense. (Example: "Add feature" instead of "Added feature")

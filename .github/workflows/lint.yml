@@ -1,0 +1,17 @@
+name: Markdown Lint
+on: [push, pull_request]
+jobs:
+  Markdown-Lint:
+    runs-on: ubuntu-latest
+    steps:
+      lint-changelog:
+        name: Lint changelog file
+        runs-on: ubuntu-latest
+        steps:
+          - name: Check out code
+          uses: actions/checkout@v2
+
+          - name: Lint changelog file
+          uses: docker://avtodev/markdown-lint:v
+          with:
+            args: '../README.md ../CODE_OF_CONDUCT.md ../CONTRIBUTING.md'

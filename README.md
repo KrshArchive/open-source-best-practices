@@ -33,3 +33,11 @@ NOT need to write one of scratch.
 moment, use the issues section. This will help you organise the
 project and allow community members to understand what is
 happening on the project.
+
+- [ ] Commits
+   * Commits meesages are required. Be descriptive but concise to
+add value. Therefore are some great automations that can be
+done with GitHub Actions using these commit messages; for
+example auto generate changelog.
+
+

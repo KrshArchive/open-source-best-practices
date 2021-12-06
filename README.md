@@ -40,4 +40,9 @@ add value. Therefore are some great automations that can be
 done with GitHub Actions using these commit messages; for
 example auto generate changelog.
 
+- [ ] Github Actions
+   * It is important to create read only check points for your project,
+aka release / tag. These can also include features and bugs fixes
+that are contained in that release.
+
 

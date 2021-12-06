@@ -18,7 +18,6 @@ There are many great licenses to pick from; two popular licenses
 are MIT and GPLv3
 Visit http://choosealicense.com
 
-
 - [ ] Desription, Url, Topis
   * The repo has settings for description, url and topics. Make sure to
 use these fields and keep them concise and relevant.

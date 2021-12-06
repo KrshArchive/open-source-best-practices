@@ -27,3 +27,9 @@ important file and without it, could be preventing people from
 contributing to your project. There are templates for these, you do
 NOT need to write one of scratch.
 
+
+- [ ] Issues
+  * Even if you are the only person working on the project at the
+moment, use the issues section. This will help you organise the
+project and allow community members to understand what is
+happening on the project.

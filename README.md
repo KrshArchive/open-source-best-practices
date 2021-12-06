@@ -23,3 +23,11 @@ Visit http://choosealicense.com
 - [ ] Desription, Url, Topis
   * The repo has settings for description, url and topics. Make sure to
 use these fields and keep them concise and relevant.
+
+
+- [ ] Code Of Conduct
+  * This is very often overlooked, but just like licenses it is a very
+important file and without it, could be preventing people from
+contributing to your project. There are templates for these, you do
+NOT need to write one of scratch.
+

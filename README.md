@@ -10,3 +10,10 @@ A list of open source best practices to get more stars, forks and contributors ð
   everyone will see because it is previewed on your repo landing
   page. Make sure you include: pre-requisites, quickstart,
   screenshots
+
+
+- [ ] License
+  * If you do not have a license your project is NOT Open Source.
+There are many great licenses to pick from; two popular licenses
+are MIT and GPLv3
+Visit http://choosealicense.com
